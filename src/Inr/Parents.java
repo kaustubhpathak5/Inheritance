@@ -4,7 +4,7 @@ public class Parents
 {
 	public void m1()
 	{
-		System.out.println("m1--parent");
+		System.out.println("m1--parents");
 		
 	}
 public void m2()
